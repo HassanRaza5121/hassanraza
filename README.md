@@ -1,4 +1,4 @@
-#Hassan Raza
+Hassan Raza
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Hassan+Raza!;AI+Engineer+%7C+Machine+Learning+Researcher;Building+LLMs%2C+RAGs+%26+Intelligent+Systems" alt="Typing SVG" />
