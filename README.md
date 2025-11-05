@@ -1,4 +1,4 @@
-# hassanraza
+
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Hassan+Raza!;AI+Engineer+%7C+Machine+Learning+Researcher;Building+LLMs%2C+RAGs+%26+Intelligent+Systems" alt="Typing SVG" />
@@ -55,9 +55,7 @@
 
 ---
 
-### 🌍 **Connect With Me**
-
-## 📫 Contact Me  
+### 🌍 **Connect With Me** 
 
 <p align="center">
   <a href="mailto:hassanraza.rashid5@gmail.com">
@@ -76,27 +74,29 @@
 ### 📈 **GitHub Stats**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanRaza5121&show_icons=true&theme=tokyonight" alt="Hassan's GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanRaza5121&theme=tokyonight" alt="Hassan's GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRaza5121&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ### 🐍 **My Contribution Graph (Animated)**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/HassanRaza5121/HassanRaza5121/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
 ### 👁️ **Profile Visitors**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=HassanRaza5121&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
